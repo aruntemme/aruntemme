@@ -1,4 +1,4 @@
-### Hey It's Arun 👋
+### Hey I'm Arun 👋
 
 - 🔭 I’m currently studying computer science and engineering
 - 🌱 I’m currently learning flutter
