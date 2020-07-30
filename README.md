@@ -1,4 +1,6 @@
 ### Hey I'm Arun 👋
+![image title](https://rushter.com/counter.svg)
+
 - 🔭 I’m currently studying computer science and engineering
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for help with flutter projects
