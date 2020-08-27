@@ -13,3 +13,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruntemme&theme=radical&hide_langs_below=1" />
 </a>
 
+[![HitCount](http://hits.dwyl.com/aruntemme/aruntemme.svg)](http://hits.dwyl.com/aruntemme/aruntemme)
