@@ -1,7 +1,7 @@
 ### Hey I'm Arun 👋
 
 
-- 📫 How to reach me: [Twitter - @aruntemme](https://twitter.com/aruntemme), [Telegram - @d4rcat](https://t.me/d4rcat)
+- 📫 How to reach me: [Twitter - @aruntemme](https://twitter.com/aruntemme), [Telegram - @aruntemme](https://t.me/aruntemme)
 <a href="https://github.com/aruntemme">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aruntemme&show_icons=true&theme=radical&line_height=27" alt="Arun's github stats"/>
 </a>
