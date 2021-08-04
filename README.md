@@ -13,13 +13,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aruntemme&theme=highcontrast)](https://github.com/shelcia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aruntemme&theme=highcontrast)](https://github.com/aruntemme)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=aruntemme&margin-w=15&theme=alduin&column=3)](https://github.com/shelcia)
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=aruntemme&margin-w=15&theme=alduin&column=3)](https://github.com/aruntemme)
 
 </div>
 
