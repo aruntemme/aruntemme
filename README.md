@@ -1,7 +1,7 @@
 ### Hey I'm Arun 👋
 
 
-- 📫 How to reach me: [Twitter - @aruntemme](https://twitter.com/aruntemme), [Telegram - @aruntemme](https://t.me/aruntemme)
+reach me in [Twitter - @aruntemme](https://twitter.com/aruntemme), [Telegram - @aruntemme](https://t.me/aruntemme)
 # Github Stats 
 
 <a href="https://github.com/aruntemme">
