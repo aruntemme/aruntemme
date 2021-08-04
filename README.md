@@ -22,5 +22,3 @@ reach me in [Twitter - @aruntemme](https://twitter.com/aruntemme), [Telegram - @
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=aruntemme&margin-w=15&theme=alduin&column=3)](https://github.com/aruntemme)
 
 </div>
-
-[![HitCount](http://hits.dwyl.com/aruntemme/aruntemme.svg)](http://hits.dwyl.com/aruntemme/aruntemme)
