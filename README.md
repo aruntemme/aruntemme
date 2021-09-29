@@ -1,24 +1,13 @@
 ### Hey I'm Arun 👋
 
+I code 
 
 reach me in [Twitter - @aruntemme](https://twitter.com/aruntemme), [Telegram - @aruntemme](https://t.me/aruntemme)
 # Github Stats 
 
-<a href="https://github.com/aruntemme">
-    <img src="https://github-readme-stats.vercel.app/api?username=aruntemme&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
-</a>
-<a href="https://github.com/aruntemme">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruntemme&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
-</a>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aruntemme&theme=highcontrast)](https://github.com/aruntemme)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=aruntemme&margin-w=15&theme=alduin&column=3)](https://github.com/aruntemme)
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aruntemme&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aruntemme&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?aruntemme=qbentil&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aruntemme&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aruntemme&theme=github_dark)
