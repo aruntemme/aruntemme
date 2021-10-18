@@ -1,6 +1,6 @@
 ### Hey I'm Arun 👋
 
-I code 
+Passionate Learner | Developer
 
 reach me in [Twitter - @aruntemme](https://twitter.com/aruntemme), [Telegram - @aruntemme](https://t.me/aruntemme)
 # Github Stats 
