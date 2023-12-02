@@ -3,5 +3,3 @@
 Passionate Learner | Developer
 
 reach me in [Twitter - @aruntemme](https://twitter.com/aruntemme)
-# Github Stats 
-
